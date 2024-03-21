@@ -19,13 +19,13 @@ const Footer = () => {
           </Col>
           <Col md="4" className="footer-copywright">
             <span>Copyright © {year}</span>
-            <img src={logo} className="img-fluid logo" alt="brand" />
+              <h3>Kalyan Kumar</h3>
           </Col>
           <Col md="4" className="footer-body">
             <ul className="footer-icons">
               <li className="social-icons">
                 <a
-                  href="https://github.com/19sajib"
+                  href="https://github.com/DORAGACHARLAKALYANKUMARREDDY"
                   style={{ color: "white" }}
                   target="_blank" 
                   rel="noopener noreferrer"
@@ -36,7 +36,7 @@ const Footer = () => {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/19sajib"
+                  href="https://twitter.com/Doragachar90191"
                   style={{ color: "white" }}
                   target="_blank" 
                   rel="noopener noreferrer"
@@ -47,7 +47,7 @@ const Footer = () => {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/19sajib/"
+                  href="https://www.linkedin.com/in/kalyan-kumar-reddy-doragacharla-732661226/  "
                   style={{ color: "white" }}
                   target="_blank" 
                   rel="noopener noreferrer"
@@ -58,7 +58,7 @@ const Footer = () => {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://leetcode.com/19sajib/"
+                  href="https://leetcode.com/D_Kalyan_Reddy/"
                   style={{ color: "white" }}
                   target="_blank" 
                   rel="noopener noreferrer"

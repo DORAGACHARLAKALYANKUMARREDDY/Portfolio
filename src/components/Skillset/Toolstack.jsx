@@ -24,7 +24,7 @@ const Toolstack = () => {
         <SiNetlify />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiHeroku />
+        <SiHeroku value="heroku"/>
       </Col>
     </Row>
   );

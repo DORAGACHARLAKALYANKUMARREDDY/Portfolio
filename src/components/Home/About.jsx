@@ -10,7 +10,7 @@ import { FaLinkedinIn } from "react-icons/fa";
 import { SiLeetcode } from "react-icons/si";
 
 
-
+ 
 const About = () => {
     return (
         <Container fluid className="home-about-section" id="about">

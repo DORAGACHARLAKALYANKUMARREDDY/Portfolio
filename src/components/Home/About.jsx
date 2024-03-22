@@ -21,11 +21,11 @@ const About = () => {
                   LET ME <span className="yellow"> INTRODUCE </span> MYSELF
                 </h1>
                 <p className="home-about-body">
-                 Hi, my name is <span className="yellow">Md Abu Bakkar Siddiqe Sajib </span>
-                 and I'm from <span className="yellow"> Dhaka, Bangladesh.</span>
+                 Hi, my name is <span className="yellow">D Kalyan Kumar Reddy</span>
+                 and I'm from <span className="yellow"> Tenali Andhra Pradesh, India.</span>
                 <br />
                 <br />
-                I recently graduated with a Bachelor's degree in Computer Science and Engineering in 2021.
+                I am currently persuing  Bachelor's degree in Computer Science and Engineering in KL University.
                 <br />
                 <br />
                   As a
@@ -34,8 +34,8 @@ const About = () => {
                   <br />
                   <br />I am proficient in
                     <b className="yellow"> Javascript, </b>
-                    as well as have knowledge in programming languages such as C, Java, Python,
-                  <b className="yellow"> GraphQL, and Solidity.</b>
+                    as well as have knowledge in programming languages such as C, C++, Java,
+                  <b className="yellow"> MongoDB and MySql.</b>
                   <br />
                   <br />
                   I have a passion for working
@@ -77,7 +77,7 @@ const About = () => {
                 <ul className="home-about-social-links">
                   <li className="social-icons">
                     <a
-                      href="https://github.com/19sajib"
+                      href="https://github.com/DORAGACHARLAKALYANKUMARREDDY"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour  home-social-icons"
@@ -88,7 +88,7 @@ const About = () => {
                   </li>
                   <li className="social-icons">
                     <a
-                      href="https://twitter.com/19sajib"
+                      href="https://twitter.com/Doragachar90191"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour  home-social-icons"
@@ -99,7 +99,7 @@ const About = () => {
                   </li>
                   <li className="social-icons">
                     <a
-                      href="https://www.linkedin.com/in/19sajib/"
+                      href="https://www.linkedin.com/in/kalyan-kumar-reddy-doragacharla-732661226/"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour  home-social-icons"
@@ -110,7 +110,7 @@ const About = () => {
                   </li>
                   <li className="social-icons">
                     <a
-                      href="https://leetcode.com/19sajib/"
+                      href="https://leetcode.com/D_Kalyan_Reddy/"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour home-social-icons"

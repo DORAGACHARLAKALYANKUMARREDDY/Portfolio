@@ -5,7 +5,7 @@
         <g transform="translate(1 1)" stroke-width="2">
             <circle cx="5" cy="50" r="5">
                 <animate attributeName="cy"
-                     begin="0s" dur="2.2s"
+                        begin="0s" dur="2.2s"
                      values="50;5;50;50"
                      calcMode="linear"
                      repeatCount="indefinite" />
